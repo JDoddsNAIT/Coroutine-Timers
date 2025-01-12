@@ -1,0 +1,11 @@
+{
+    "name": "com.jonathan-dodds.coroutine-timers",
+    "version": "0.1.0",
+    "displayName": "Coroutine Timers",
+    "description": "Small set of coroutine-based timer components for Unity.",
+    "author": {
+      "name": "Jonathan Dodds",
+      "email": "jonathandodds83@gmail.com",
+      "url": "https://github.com/JDoddsNAIT"
+    }
+}
